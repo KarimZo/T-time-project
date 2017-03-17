@@ -1,0 +1,9 @@
+c:\users\sio2\documents\visual studio 2015\Projects\T-Time_Zoubeidi\T-Time_Zoubeidi\bin\Debug\T-Time_Zoubeidi.exe.config
+c:\users\sio2\documents\visual studio 2015\Projects\T-Time_Zoubeidi\T-Time_Zoubeidi\bin\Debug\T-Time_Zoubeidi.exe
+c:\users\sio2\documents\visual studio 2015\Projects\T-Time_Zoubeidi\T-Time_Zoubeidi\bin\Debug\T-Time_Zoubeidi.pdb
+c:\users\sio2\documents\visual studio 2015\Projects\T-Time_Zoubeidi\T-Time_Zoubeidi\obj\Debug\T-Time_Zoubeidi.csprojResolveAssemblyReference.cache
+c:\users\sio2\documents\visual studio 2015\Projects\T-Time_Zoubeidi\T-Time_Zoubeidi\obj\Debug\T_Time_Zoubeidi.Form1.resources
+c:\users\sio2\documents\visual studio 2015\Projects\T-Time_Zoubeidi\T-Time_Zoubeidi\obj\Debug\T_Time_Zoubeidi.Properties.Resources.resources
+c:\users\sio2\documents\visual studio 2015\Projects\T-Time_Zoubeidi\T-Time_Zoubeidi\obj\Debug\T-Time_Zoubeidi.csproj.GenerateResource.Cache
+c:\users\sio2\documents\visual studio 2015\Projects\T-Time_Zoubeidi\T-Time_Zoubeidi\obj\Debug\T-Time_Zoubeidi.exe
+c:\users\sio2\documents\visual studio 2015\Projects\T-Time_Zoubeidi\T-Time_Zoubeidi\obj\Debug\T-Time_Zoubeidi.pdb
